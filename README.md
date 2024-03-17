@@ -3,9 +3,13 @@
 
 ## The Dawn of United Dogedom
 
+<img src="https://github.com/VOTE-UnitedDogedom/Meme/blob/main/VOTE_-_United_Dogedom_Icon.png" alt="drawing" style="width:200px;"/>
+
 In the beginning, the digital expanse where humour intersects with technology, United Dogedom has emerged as a beacon of playful satire on elections. We take it seriously - with VOTE.
 
 Our mission is to create a world where the whimsy memes and the seriousness of democratic principles coexist in harmony. Born from the Founding Fathers of Bitcoin, and the great legacy of Dogecoin, this digital nation-state purposely focuses on the power of the social popularity of memes in shaping online communities and narratives with the right amount of VOTE tokens. United Dogedom is more than a crypto meme project; it's a cultural and social phenomenon.
+
+
 
 ### It’s a Meme for a Meme with a Meme
 
