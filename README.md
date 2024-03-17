@@ -1,10 +1,12 @@
 # VOTE - The United Dogedom
 **SOLANA TOKEN CA: [7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR](https://solscan.io/token/7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR)**
 
-# Token Airdrop
+# Token Airdrop 
 [Register for SuperFan Airdrop](https://share-eu1.hsforms.com/1fH_eCeu-SlSLCpIfz7sGyA2dxsv3)
 
-## Rules for airdrop:
+## The Rules of $VOTE token Airdrop:
+
+Once you complete the form registering the interst, here are the rules to be eligible for the Airdrop;
 
 - Twitter or Youtube 1000+ followers, but less than 100,000
 - RT, Follow the https://twitter.com/Dogedom_VOTE Posts
@@ -12,7 +14,9 @@
 - One token for your every follower, rounded to the nearest thousand.
 - Priority for Community expressing interest with SOL during pre-launch.
 
-# Youtube and X cReators 
+The token airdrop is ongoing until all **$VOTE** is distribution and is completed within within 72 hours of a validated airdrop request.
+
+# Youtube and X Creator 
 There is an additinal $VOTE Distribution for Youtube/Twitter/X creators - DM for details
 
 
@@ -20,13 +24,13 @@ There is an additinal $VOTE Distribution for Youtube/Twitter/X creators - DM for
 
 <img src="https://github.com/VOTE-UnitedDogedom/Meme/blob/main/VOTE_-_United_Dogedom_Icon.png" alt="drawing" style="width:200px;"/>
 
-In the beginning, the digital expanse where humour intersects with technology, United Dogedom has emerged as a beacon of playful satire on elections. We take it seriously - with VOTE.
+In the beginning, between the digital expanse humour intersects with technology, and United Dogedom is a beacon of playful satire on elections. 
 
 Our mission is to create a world where the whimsy memes and the seriousness of democratic principles coexist in harmony. Born from the Founding Fathers of Bitcoin, and the great legacy of Dogecoin, this digital nation-state purposely focuses on the power of the social popularity of memes in shaping online communities and narratives with the right amount of VOTE tokens. United Dogedom is more than a crypto meme project; it's a cultural and social phenomenon.
 
 
 
-### It’s a Meme for a Meme with a Meme
+### It’s a Meme for a Meme, with a Meme
 
 United Dogedom is not just about owning digital assets; it's about participating in this fictional digital society that values your visionary take on societies, with all the cynicism, creativity, and the voice of its members. This is serious business.
 
