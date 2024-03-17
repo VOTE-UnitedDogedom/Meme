@@ -1,11 +1,11 @@
 # VOTE - The United Dogedom
-**SOLANA TOKEN CA: 7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR**
+**SOLANA TOKEN CA: [7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR](https://solscan.io/token/7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR)**
 
 ## The Dawn of United Dogedom
 
 In the beginning, the digital expanse where humour intersects with technology, United Dogedom has emerged as a beacon of playful satire on elections. We take it seriously - with VOTE.
 
-Our mission is to create a world where the whimsy of memes and the seriousness of democratic principles coexist in harmony. Born from the Founding Fathers of Bitcoin, and the great legacy of Dogecoin, this digital nation-state purposely focuses on the power of the social popularity of memes in shaping online communities and narratives with the right amount of VOTE tokens. United Dogedom is more than a crypto meme project; it's a cultural and social phenomenon.
+Our mission is to create a world where the whimsy memes and the seriousness of democratic principles coexist in harmony. Born from the Founding Fathers of Bitcoin, and the great legacy of Dogecoin, this digital nation-state purposely focuses on the power of the social popularity of memes in shaping online communities and narratives with the right amount of VOTE tokens. United Dogedom is more than a crypto meme project; it's a cultural and social phenomenon.
 
 ### It’s a Meme for a Meme with a Meme
 
@@ -16,3 +16,29 @@ It is your digital right to hold elections and hold your VOTEs, however many you
 For those of you with delusions of grandeur, United Dogedom offers the ultimate playing field. Buy, Collect your VOTEs, build your digital dominion, charm and strategize your social strategies to build up your reputation all the way to the top of this Dogemocracy.
 
 And remember, in this digital dog-eat-doge world, every VOTE token is a testament to your influence, albeit not financial advice.
+
+# How to Buy $VOTE Token
+
+## Step 1: Create a Wallet
+- **Download Phantom Wallet**: 
+   - Mobile users: Download the Phantom app from the App Store or Google Play.
+   - Desktop users: Add the Phantom extension to Google Chrome. 
+   - Visit [Phantom website](https://phantom.app/) for direct links.
+
+## Step 2: Acquire SOL
+- **Fund Your Wallet with SOL**:
+   - If you don’t already have SOL in your wallet, you can purchase it directly within the Phantom app, transfer it from another wallet, or buy it on an exchange and send it to your Phantom wallet. (You Can buy with Revolut, Nexo, and many other exchanges)
+
+## Step 3: Go to Raydium
+- **Connect to [Raydium](https://raydium.io/swap/)**:
+   - Access Raydium using Google Chrome or through the browser in the Phantom app.
+   - Connect your wallet to the platform.
+   - Input the **$VOTE** [7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR](https://solscan.io/token/7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR) token address into Raydium’s swap interface. *MUST ENSURE the Contract Matches.
+
+## Step 4: Swap SOL for $VOTE
+- **Trade SOL for $VOTE**:
+   - In Raydium, select SOL as your input currency and $VOTE as the output currency.
+   - Execute the swap. Remember that $VOTE transactions are tax-free, so no need to adjust slippage settings.
+   - Confirm the transaction when prompted by Phantom.
+
+_**Note:** Always be cautious of transaction fees and slippage settings in decentralized exchanges._
