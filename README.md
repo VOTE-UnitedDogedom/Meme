@@ -1,6 +1,21 @@
 # VOTE - The United Dogedom
 **SOLANA TOKEN CA: [7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR](https://solscan.io/token/7Cy8QKRGDx42idnRELTVBtYo83PUPWQJ8qnWENUSGuzR)**
 
+# Token Airdrop
+[Register for SuperFan Airdrop](https://share-eu1.hsforms.com/1fH_eCeu-SlSLCpIfz7sGyA2dxsv3)
+
+## Rules for airdrop:
+
+- Twitter or Youtube 1000+ followers, but less than 100,000
+- RT, Follow the https://twitter.com/Dogedom_VOTE Posts
+- **Public Airdrop and Distribution is limited to the first 3 million tokens**
+- One token for your every follower, rounded to the nearest thousand.
+- Priority for Community expressing interest with SOL during pre-launch.
+
+# Youtube and X cReators 
+There is an additinal $VOTE Distribution for Youtube/Twitter/X creators - DM for details
+
+
 ## The Dawn of United Dogedom
 
 <img src="https://github.com/VOTE-UnitedDogedom/Meme/blob/main/VOTE_-_United_Dogedom_Icon.png" alt="drawing" style="width:200px;"/>
