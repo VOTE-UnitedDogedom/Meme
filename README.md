@@ -13,7 +13,7 @@ Once you complete the form registering the interest, here are the rules to be el
 - **Public Airdrop and Distribution is limited to the first 3 million tokens**
 - One token for every follower, rounded to the nearest thousand.
 
-The token airdrop is ongoing until all **$VOTE** is distribution and is completed within within 72 hours of a validated airdrop request.
+The token airdrop is ongoing until all **$VOTE** is distributed and is completed within within 72 hours of a validated airdrop request.
 
 # Youtube and X Creator 
 There is an additional `$VOTE` Distribution for Youtube/Twitter (X) creators - DM for details
