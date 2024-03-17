@@ -6,25 +6,24 @@
 
 ## The Rules of $VOTE token Airdrop:
 
-Once you complete the form registering the interst, here are the rules to be eligible for the Airdrop;
+Once you complete the form registering the interest, here are the rules to be eligible for the Airdrop;
 
-- Twitter or Youtube 1000+ followers, but less than 100,000
+- Twitter 1000+ followers, but less than 100,000
 - RT, Follow the https://twitter.com/Dogedom_VOTE Posts
 - **Public Airdrop and Distribution is limited to the first 3 million tokens**
-- One token for your every follower, rounded to the nearest thousand.
-- Priority for Community expressing interest with SOL during pre-launch.
+- One token for every follower, rounded to the nearest thousand.
 
 The token airdrop is ongoing until all **$VOTE** is distribution and is completed within within 72 hours of a validated airdrop request.
 
 # Youtube and X Creator 
-There is an additinal $VOTE Distribution for Youtube/Twitter/X creators - DM for details
+There is an additional `$VOTE` Distribution for Youtube/Twitter (X) creators - DM for details
 
 
 ## The Dawn of United Dogedom
 
 <img src="https://github.com/VOTE-UnitedDogedom/Meme/blob/main/VOTE_-_United_Dogedom_Icon.png" alt="drawing" style="width:200px;"/>
 
-In the beginning, between the digital expanse humour intersects with technology, and United Dogedom is a beacon of playful satire on elections. 
+In the vast expanse of crypto Meme-Verse, between the rocky seas of digital trolls and excited crypto degens lays a great ocean of doge culture. This is where you'll discover The United Dogedom - a beacon of playful satire on dogemocratic elections, and repeated battles for supremacy, leadership and leadership selection of the ephemeral sandcastle nations.
 
 Our mission is to create a world where the whimsy memes and the seriousness of democratic principles coexist in harmony. Born from the Founding Fathers of Bitcoin, and the great legacy of Dogecoin, this digital nation-state purposely focuses on the power of the social popularity of memes in shaping online communities and narratives with the right amount of VOTE tokens. United Dogedom is more than a crypto meme project; it's a cultural and social phenomenon.
 
