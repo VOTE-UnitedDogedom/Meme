@@ -27,7 +27,9 @@ In the vast expanse of crypto Meme-Verse, between the rocky seas of digital trol
 
 Our mission is to create a world where the whimsy memes and the seriousness of democratic principles coexist in harmony. Born from the Founding Fathers of Bitcoin, and the great legacy of Dogecoin, this digital nation-state purposely focuses on the power of the social popularity of memes in shaping online communities and narratives with the right amount of VOTE tokens. United Dogedom is more than a crypto meme project; it's a cultural and social phenomenon.
 
+# Whitepaper
 
+[Download whitepaper](https://github.com/VOTE-UnitedDogedom/Meme/blob/main/%24VOTE%20United%20Dogedom%20-%20Whitepaper%20%5Bfinal%20v1.0%5D.pdf)
 
 ### It’s a Meme for a Meme, with a Meme
 
