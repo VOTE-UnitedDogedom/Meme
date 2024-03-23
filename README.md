@@ -41,6 +41,19 @@ For those of you with delusions of grandeur, United Dogedom offers the ultimate 
 
 And remember, in this digital dog-eat-doge world, every VOTE token is a testament to your influence, albeit not financial advice.
 
+# But wait, There’s More
+## Introducing The Tokenomics of $VOTE Burn
+
+**Let’s face it.** Sometimes you have a great campaign going and no-one turns up with $VOTE. We want to ensure that those who exercise their $VOTE are rewarded accordingly.
+
+This is why we’d be following-up with the Plan to Burn 50% of the token supply after the initial Launch and sale period. We commit burning weekly tokens in our supply, reducing the Max Supply to that good old 21 million target.
+
+<img src="https://github.com/VOTE-UnitedDogedom/Meme/blob/main/VOTE_Tokenomics_burn.png" alt="VOTE Burn Schedule" style="width:200px;"/>
+
+
+In a strategic initiative to bolster the value and rarity of the $VOTE token, we have implemented a decisive token burn policy, designed to significantly decrease the total supply from an initial count of 332 million down to a target of 21 million tokens. Our approach commences with an aggressive initial burn, slashing the total supply by 50% down to 166 million tokens.
+
+
 # How to Buy $VOTE Token
 
 ## Step 1: Create a Wallet
